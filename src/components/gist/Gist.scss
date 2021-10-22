@@ -1,0 +1,19 @@
+$gist-text: #212529;
+
+.toast {
+  height: 100%;
+  width: 99%;
+}
+
+.gist {
+  flex: 50%;
+}
+
+.edit-gist {
+  text-decoration: none;
+  color: $gist-text;
+}
+
+.edit-gist:hover {
+  color: $gist-text;
+}

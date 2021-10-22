@@ -1,0 +1,35 @@
+.createGistContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.createGist {
+  width: 30vw;
+  background: #1f1f1f;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.199);
+  padding: 60px 50px;
+  border-radius: 8px;
+}
+
+.createGist h1 {
+  color: #fff;
+  font-size: 31px;
+  text-align: center;
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 35px rgba(255, 255, 255, 0.3);
+  padding-bottom: 30px;
+  filter: brightness(94%);
+}
+
+.createButtons {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px;
+}
+
+// .createButtons button {
+//   width: 150px;
+// }
