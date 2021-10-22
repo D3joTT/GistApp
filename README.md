@@ -1,3 +1,3 @@
-## GistApp
+# GistApp
 
-# in progress
+## in progress
